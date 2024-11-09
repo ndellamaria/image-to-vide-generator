@@ -1,0 +1,509 @@
+2024-11-08 21:35:33,629 - ERROR - Could not find corresponding image for prompts/rocks_prompt.txt
+2024-11-08 21:35:33,630 - ERROR - Could not find corresponding image for prompts/trail_prompt.txt
+2024-11-08 21:35:33,630 - ERROR - Could not find corresponding image for prompts/portrait-mountain-side_prompt.txt
+2024-11-08 21:35:33,630 - ERROR - Could not find corresponding image for prompts/castle_prompt.txt
+2024-11-08 21:35:33,630 - ERROR - Could not find corresponding image for prompts/hazy-sunset_prompt.txt
+2024-11-08 21:35:33,631 - ERROR - Could not find corresponding image for prompts/beach-boats_prompt.txt
+2024-11-08 21:35:33,631 - ERROR - Could not find corresponding image for prompts/flower-pots_prompt.txt
+2024-11-08 21:35:33,631 - ERROR - Could not find corresponding image for prompts/rugged_prompt.txt
+2024-11-08 21:35:33,631 - ERROR - Could not find corresponding image for prompts/climbing_prompt.txt
+2024-11-08 21:35:33,632 - ERROR - Could not find corresponding image for prompts/boats_prompt.txt
+2024-11-08 21:35:33,632 - ERROR - Could not find corresponding image for prompts/ally-bikes_prompt.txt
+2024-11-08 21:35:33,632 - ERROR - Could not find corresponding image for prompts/mirror_prompt.txt
+2024-11-08 21:35:33,632 - ERROR - Could not find corresponding image for prompts/dubrovnik_prompt.txt
+2024-11-08 21:35:33,632 - ERROR - Could not find corresponding image for prompts/grass_prompt.txt
+2024-11-08 21:35:33,633 - ERROR - Could not find corresponding image for prompts/cliff-jump_prompt.txt
+2024-11-08 21:35:33,633 - ERROR - Could not find corresponding image for prompts/rock-window_prompt.txt
+2024-11-08 21:35:33,633 - ERROR - Could not find corresponding image for prompts/pink-flower-close-up_prompt.txt
+2024-11-08 21:35:33,633 - ERROR - Could not find corresponding image for prompts/mountain-hut_prompt.txt
+2024-11-08 21:35:33,633 - ERROR - Could not find corresponding image for prompts/laptop_prompt.txt
+2024-11-08 21:35:33,633 - ERROR - Could not find corresponding image for prompts/mountain-clouds_prompt.txt
+2024-11-08 21:35:33,634 - ERROR - Could not find corresponding image for prompts/mountains-clouds-snow_prompt.txt
+2024-11-08 21:35:33,634 - ERROR - Could not find corresponding image for prompts/sunset-beach_prompt.txt
+2024-11-08 21:35:33,634 - ERROR - Could not find corresponding image for prompts/beach-balls_prompt.txt
+2024-11-08 21:35:33,634 - ERROR - Could not find corresponding image for prompts/mountain-beers_prompt.txt
+2024-11-08 21:35:33,635 - ERROR - Could not find corresponding image for prompts/surf-shack_prompt.txt
+2024-11-08 21:35:33,635 - ERROR - Could not find corresponding image for prompts/sharp-mountains_prompt.txt
+2024-11-08 21:35:33,635 - ERROR - Could not find corresponding image for prompts/light-sunset_prompt.txt
+2024-11-08 21:35:33,635 - ERROR - Could not find corresponding image for prompts/waterfalls_prompt.txt
+2024-11-08 21:35:33,635 - ERROR - Could not find corresponding image for prompts/thirsty-dog_prompt.txt
+2024-11-08 21:35:33,635 - ERROR - Could not find corresponding image for prompts/beach-yoga_prompt.txt
+2024-11-08 21:35:33,635 - ERROR - Could not find corresponding image for prompts/wildflowers_prompt.txt
+2024-11-08 21:36:21,859 - ERROR - Error creating generation task: 400 Client Error: Bad Request for url: https://api.dev.runwayml.com/v1/upload
+2024-11-08 21:36:22,190 - ERROR - Error creating generation task: 400 Client Error: Bad Request for url: https://api.dev.runwayml.com/v1/upload
+2024-11-08 21:36:22,467 - ERROR - Error creating generation task: 400 Client Error: Bad Request for url: https://api.dev.runwayml.com/v1/upload
+2024-11-08 21:36:22,764 - ERROR - Error creating generation task: 400 Client Error: Bad Request for url: https://api.dev.runwayml.com/v1/upload
+2024-11-08 21:36:23,052 - ERROR - Error creating generation task: 400 Client Error: Bad Request for url: https://api.dev.runwayml.com/v1/upload
+2024-11-08 21:36:23,378 - ERROR - Error creating generation task: 400 Client Error: Bad Request for url: https://api.dev.runwayml.com/v1/upload
+2024-11-08 21:36:23,699 - ERROR - Error creating generation task: 400 Client Error: Bad Request for url: https://api.dev.runwayml.com/v1/upload
+2024-11-08 21:36:24,018 - ERROR - Error creating generation task: 400 Client Error: Bad Request for url: https://api.dev.runwayml.com/v1/upload
+2024-11-08 21:36:24,344 - ERROR - Error creating generation task: 400 Client Error: Bad Request for url: https://api.dev.runwayml.com/v1/upload
+2024-11-08 21:36:24,651 - ERROR - Error creating generation task: 400 Client Error: Bad Request for url: https://api.dev.runwayml.com/v1/upload
+2024-11-08 21:36:24,995 - ERROR - Error creating generation task: 400 Client Error: Bad Request for url: https://api.dev.runwayml.com/v1/upload
+2024-11-08 21:36:25,267 - ERROR - Error creating generation task: 400 Client Error: Bad Request for url: https://api.dev.runwayml.com/v1/upload
+2024-11-08 21:36:25,567 - ERROR - Error creating generation task: 400 Client Error: Bad Request for url: https://api.dev.runwayml.com/v1/upload
+2024-11-08 21:36:25,848 - ERROR - Error creating generation task: 400 Client Error: Bad Request for url: https://api.dev.runwayml.com/v1/upload
+2024-11-08 21:36:26,139 - ERROR - Error creating generation task: 400 Client Error: Bad Request for url: https://api.dev.runwayml.com/v1/upload
+2024-11-08 21:41:21,302 - INFO - Processing rocks_prompt.txt
+2024-11-08 21:41:21,302 - INFO - Creating video generation task for rocks
+2024-11-08 21:41:21,510 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:21,512 - ERROR - Error processing prompts/rocks_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:21,512 - INFO - Processing trail_prompt.txt
+2024-11-08 21:41:21,513 - INFO - Creating video generation task for trail
+2024-11-08 21:41:21,588 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:21,589 - ERROR - Error processing prompts/trail_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:21,590 - INFO - Processing portrait-mountain-side_prompt.txt
+2024-11-08 21:41:21,591 - INFO - Creating video generation task for portrait-mountain-side
+2024-11-08 21:41:21,659 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:21,660 - ERROR - Error processing prompts/portrait-mountain-side_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:21,660 - INFO - Processing castle_prompt.txt
+2024-11-08 21:41:21,662 - INFO - Creating video generation task for castle
+2024-11-08 21:41:21,711 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:21,711 - ERROR - Error processing prompts/castle_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:21,711 - INFO - Processing hazy-sunset_prompt.txt
+2024-11-08 21:41:21,712 - INFO - Creating video generation task for hazy-sunset
+2024-11-08 21:41:21,776 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:21,776 - ERROR - Error processing prompts/hazy-sunset_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:21,776 - INFO - Processing beach-boats_prompt.txt
+2024-11-08 21:41:21,778 - INFO - Creating video generation task for beach-boats
+2024-11-08 21:41:21,836 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:21,836 - ERROR - Error processing prompts/beach-boats_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:21,836 - INFO - Processing flower-pots_prompt.txt
+2024-11-08 21:41:21,838 - INFO - Creating video generation task for flower-pots
+2024-11-08 21:41:21,893 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:21,893 - ERROR - Error processing prompts/flower-pots_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:21,893 - INFO - Processing rugged_prompt.txt
+2024-11-08 21:41:21,894 - INFO - Creating video generation task for rugged
+2024-11-08 21:41:21,953 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:21,954 - ERROR - Error processing prompts/rugged_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:21,954 - INFO - Processing climbing_prompt.txt
+2024-11-08 21:41:21,955 - INFO - Creating video generation task for climbing
+2024-11-08 21:41:22,005 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,005 - ERROR - Error processing prompts/climbing_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,005 - INFO - Processing boats_prompt.txt
+2024-11-08 21:41:22,009 - INFO - Creating video generation task for boats
+2024-11-08 21:41:22,058 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,058 - ERROR - Error processing prompts/boats_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,058 - INFO - Processing ally-bikes_prompt.txt
+2024-11-08 21:41:22,058 - INFO - Creating video generation task for ally-bikes
+2024-11-08 21:41:22,109 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,109 - ERROR - Error processing prompts/ally-bikes_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,109 - INFO - Processing mirror_prompt.txt
+2024-11-08 21:41:22,112 - INFO - Creating video generation task for mirror
+2024-11-08 21:41:22,162 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,162 - ERROR - Error processing prompts/mirror_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,162 - INFO - Processing dubrovnik_prompt.txt
+2024-11-08 21:41:22,162 - INFO - Creating video generation task for dubrovnik
+2024-11-08 21:41:22,210 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,210 - ERROR - Error processing prompts/dubrovnik_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,210 - INFO - Processing grass_prompt.txt
+2024-11-08 21:41:22,211 - INFO - Creating video generation task for grass
+2024-11-08 21:41:22,261 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,261 - ERROR - Error processing prompts/grass_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,261 - INFO - Processing cliff-jump_prompt.txt
+2024-11-08 21:41:22,262 - INFO - Creating video generation task for cliff-jump
+2024-11-08 21:41:22,313 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,313 - ERROR - Error processing prompts/cliff-jump_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,313 - INFO - Processing rock-window_prompt.txt
+2024-11-08 21:41:22,316 - INFO - Creating video generation task for rock-window
+2024-11-08 21:41:22,391 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,391 - ERROR - Error processing prompts/rock-window_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,392 - INFO - Processing pink-flower-close-up_prompt.txt
+2024-11-08 21:41:22,393 - INFO - Creating video generation task for pink-flower-close-up
+2024-11-08 21:41:22,454 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,454 - ERROR - Error processing prompts/pink-flower-close-up_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,454 - INFO - Processing mountain-hut_prompt.txt
+2024-11-08 21:41:22,455 - INFO - Creating video generation task for mountain-hut
+2024-11-08 21:41:22,509 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,509 - ERROR - Error processing prompts/mountain-hut_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,509 - INFO - Processing laptop_prompt.txt
+2024-11-08 21:41:22,509 - INFO - Creating video generation task for laptop
+2024-11-08 21:41:22,564 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,564 - ERROR - Error processing prompts/laptop_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,564 - INFO - Processing mountain-clouds_prompt.txt
+2024-11-08 21:41:22,564 - INFO - Creating video generation task for mountain-clouds
+2024-11-08 21:41:22,616 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,616 - ERROR - Error processing prompts/mountain-clouds_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,616 - INFO - Processing mountains-clouds-snow_prompt.txt
+2024-11-08 21:41:22,618 - INFO - Creating video generation task for mountains-clouds-snow
+2024-11-08 21:41:22,674 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,674 - ERROR - Error processing prompts/mountains-clouds-snow_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,674 - INFO - Processing sunset-beach_prompt.txt
+2024-11-08 21:41:22,675 - INFO - Creating video generation task for sunset-beach
+2024-11-08 21:41:22,725 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,726 - ERROR - Error processing prompts/sunset-beach_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,726 - INFO - Processing beach-balls_prompt.txt
+2024-11-08 21:41:22,729 - INFO - Creating video generation task for beach-balls
+2024-11-08 21:41:22,781 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,781 - ERROR - Error processing prompts/beach-balls_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,781 - INFO - Processing mountain-beers_prompt.txt
+2024-11-08 21:41:22,783 - INFO - Creating video generation task for mountain-beers
+2024-11-08 21:41:22,832 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,832 - ERROR - Error processing prompts/mountain-beers_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,832 - INFO - Processing surf-shack_prompt.txt
+2024-11-08 21:41:22,833 - INFO - Creating video generation task for surf-shack
+2024-11-08 21:41:22,883 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,884 - ERROR - Error processing prompts/surf-shack_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,884 - INFO - Processing sharp-mountains_prompt.txt
+2024-11-08 21:41:22,886 - INFO - Creating video generation task for sharp-mountains
+2024-11-08 21:41:22,940 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,940 - ERROR - Error processing prompts/sharp-mountains_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,941 - INFO - Processing light-sunset_prompt.txt
+2024-11-08 21:41:22,941 - INFO - Creating video generation task for light-sunset
+2024-11-08 21:41:22,990 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:22,990 - ERROR - Error processing prompts/light-sunset_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:22,990 - INFO - Processing waterfalls_prompt.txt
+2024-11-08 21:41:22,991 - INFO - Creating video generation task for waterfalls
+2024-11-08 21:41:23,043 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:23,044 - ERROR - Error processing prompts/waterfalls_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:23,044 - INFO - Processing thirsty-dog_prompt.txt
+2024-11-08 21:41:23,045 - INFO - Creating video generation task for thirsty-dog
+2024-11-08 21:41:23,092 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:23,092 - ERROR - Error processing prompts/thirsty-dog_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:23,092 - INFO - Processing beach-yoga_prompt.txt
+2024-11-08 21:41:23,093 - INFO - Creating video generation task for beach-yoga
+2024-11-08 21:41:23,142 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:23,143 - ERROR - Error processing prompts/beach-yoga_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:41:23,143 - INFO - Processing wildflowers_prompt.txt
+2024-11-08 21:41:23,143 - INFO - Creating video generation task for wildflowers
+2024-11-08 21:41:23,184 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:41:23,185 - ERROR - Error processing prompts/wildflowers_prompt.txt: Error code: 400 - {'error': 'promptImage: Invalid url'}
+2024-11-08 21:44:26,953 - INFO - Processing rocks_prompt.txt
+2024-11-08 21:44:26,954 - INFO - Creating video generation task for rocks
+2024-11-08 21:44:26,954 - ERROR - Error processing prompts/rocks_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,954 - INFO - Processing trail_prompt.txt
+2024-11-08 21:44:26,954 - INFO - Creating video generation task for trail
+2024-11-08 21:44:26,954 - ERROR - Error processing prompts/trail_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,954 - INFO - Processing portrait-mountain-side_prompt.txt
+2024-11-08 21:44:26,954 - INFO - Creating video generation task for portrait-mountain-side
+2024-11-08 21:44:26,954 - ERROR - Error processing prompts/portrait-mountain-side_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,954 - INFO - Processing castle_prompt.txt
+2024-11-08 21:44:26,955 - INFO - Creating video generation task for castle
+2024-11-08 21:44:26,955 - ERROR - Error processing prompts/castle_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,955 - INFO - Processing hazy-sunset_prompt.txt
+2024-11-08 21:44:26,955 - INFO - Creating video generation task for hazy-sunset
+2024-11-08 21:44:26,955 - ERROR - Error processing prompts/hazy-sunset_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,955 - INFO - Processing beach-boats_prompt.txt
+2024-11-08 21:44:26,955 - INFO - Creating video generation task for beach-boats
+2024-11-08 21:44:26,955 - ERROR - Error processing prompts/beach-boats_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,955 - INFO - Processing flower-pots_prompt.txt
+2024-11-08 21:44:26,955 - INFO - Creating video generation task for flower-pots
+2024-11-08 21:44:26,955 - ERROR - Error processing prompts/flower-pots_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,955 - INFO - Processing rugged_prompt.txt
+2024-11-08 21:44:26,955 - INFO - Creating video generation task for rugged
+2024-11-08 21:44:26,956 - ERROR - Error processing prompts/rugged_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,956 - INFO - Processing climbing_prompt.txt
+2024-11-08 21:44:26,956 - INFO - Creating video generation task for climbing
+2024-11-08 21:44:26,956 - ERROR - Error processing prompts/climbing_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,956 - INFO - Processing boats_prompt.txt
+2024-11-08 21:44:26,956 - INFO - Creating video generation task for boats
+2024-11-08 21:44:26,956 - ERROR - Error processing prompts/boats_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,956 - INFO - Processing ally-bikes_prompt.txt
+2024-11-08 21:44:26,956 - INFO - Creating video generation task for ally-bikes
+2024-11-08 21:44:26,956 - ERROR - Error processing prompts/ally-bikes_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,956 - INFO - Processing mirror_prompt.txt
+2024-11-08 21:44:26,956 - INFO - Creating video generation task for mirror
+2024-11-08 21:44:26,956 - ERROR - Error processing prompts/mirror_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,956 - INFO - Processing dubrovnik_prompt.txt
+2024-11-08 21:44:26,957 - INFO - Creating video generation task for dubrovnik
+2024-11-08 21:44:26,957 - ERROR - Error processing prompts/dubrovnik_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,957 - INFO - Processing grass_prompt.txt
+2024-11-08 21:44:26,957 - INFO - Creating video generation task for grass
+2024-11-08 21:44:26,957 - ERROR - Error processing prompts/grass_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,957 - INFO - Processing cliff-jump_prompt.txt
+2024-11-08 21:44:26,957 - INFO - Creating video generation task for cliff-jump
+2024-11-08 21:44:26,957 - ERROR - Error processing prompts/cliff-jump_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,957 - INFO - Processing rock-window_prompt.txt
+2024-11-08 21:44:26,957 - INFO - Creating video generation task for rock-window
+2024-11-08 21:44:26,957 - ERROR - Error processing prompts/rock-window_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,957 - INFO - Processing pink-flower-close-up_prompt.txt
+2024-11-08 21:44:26,957 - INFO - Creating video generation task for pink-flower-close-up
+2024-11-08 21:44:26,957 - ERROR - Error processing prompts/pink-flower-close-up_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,957 - INFO - Processing mountain-hut_prompt.txt
+2024-11-08 21:44:26,958 - INFO - Creating video generation task for mountain-hut
+2024-11-08 21:44:26,958 - ERROR - Error processing prompts/mountain-hut_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,958 - INFO - Processing laptop_prompt.txt
+2024-11-08 21:44:26,958 - INFO - Creating video generation task for laptop
+2024-11-08 21:44:26,958 - ERROR - Error processing prompts/laptop_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,958 - INFO - Processing mountain-clouds_prompt.txt
+2024-11-08 21:44:26,958 - INFO - Creating video generation task for mountain-clouds
+2024-11-08 21:44:26,958 - ERROR - Error processing prompts/mountain-clouds_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,958 - INFO - Processing mountains-clouds-snow_prompt.txt
+2024-11-08 21:44:26,958 - INFO - Creating video generation task for mountains-clouds-snow
+2024-11-08 21:44:26,958 - ERROR - Error processing prompts/mountains-clouds-snow_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,958 - INFO - Processing sunset-beach_prompt.txt
+2024-11-08 21:44:26,958 - INFO - Creating video generation task for sunset-beach
+2024-11-08 21:44:26,958 - ERROR - Error processing prompts/sunset-beach_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,958 - INFO - Processing beach-balls_prompt.txt
+2024-11-08 21:44:26,959 - INFO - Creating video generation task for beach-balls
+2024-11-08 21:44:26,959 - ERROR - Error processing prompts/beach-balls_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,959 - INFO - Processing mountain-beers_prompt.txt
+2024-11-08 21:44:26,959 - INFO - Creating video generation task for mountain-beers
+2024-11-08 21:44:26,959 - ERROR - Error processing prompts/mountain-beers_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,959 - INFO - Processing surf-shack_prompt.txt
+2024-11-08 21:44:26,959 - INFO - Creating video generation task for surf-shack
+2024-11-08 21:44:26,959 - ERROR - Error processing prompts/surf-shack_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,959 - INFO - Processing sharp-mountains_prompt.txt
+2024-11-08 21:44:26,959 - INFO - Creating video generation task for sharp-mountains
+2024-11-08 21:44:26,959 - ERROR - Error processing prompts/sharp-mountains_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,959 - INFO - Processing light-sunset_prompt.txt
+2024-11-08 21:44:26,959 - INFO - Creating video generation task for light-sunset
+2024-11-08 21:44:26,960 - ERROR - Error processing prompts/light-sunset_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,960 - INFO - Processing waterfalls_prompt.txt
+2024-11-08 21:44:26,960 - INFO - Creating video generation task for waterfalls
+2024-11-08 21:44:26,960 - ERROR - Error processing prompts/waterfalls_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,960 - INFO - Processing thirsty-dog_prompt.txt
+2024-11-08 21:44:26,960 - INFO - Creating video generation task for thirsty-dog
+2024-11-08 21:44:26,960 - ERROR - Error processing prompts/thirsty-dog_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,960 - INFO - Processing beach-yoga_prompt.txt
+2024-11-08 21:44:26,960 - INFO - Creating video generation task for beach-yoga
+2024-11-08 21:44:26,960 - ERROR - Error processing prompts/beach-yoga_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:26,960 - INFO - Processing wildflowers_prompt.txt
+2024-11-08 21:44:26,960 - INFO - Creating video generation task for wildflowers
+2024-11-08 21:44:26,960 - ERROR - Error processing prompts/wildflowers_prompt.txt: name 'base64' is not defined
+2024-11-08 21:44:46,557 - INFO - Processing rocks_prompt.txt
+2024-11-08 21:44:46,557 - INFO - Creating video generation task for rocks
+2024-11-08 21:44:47,056 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:44:47,057 - ERROR - Error processing prompts/rocks_prompt.txt: Error code: 400 - {'error': 'promptText must be less than 512 characters.'}
+2024-11-08 21:44:47,058 - INFO - Processing trail_prompt.txt
+2024-11-08 21:44:47,059 - INFO - Creating video generation task for trail
+2024-11-08 21:44:47,197 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:44:47,198 - ERROR - Error processing prompts/trail_prompt.txt: Error code: 400 - {'error': 'promptText must be less than 512 characters.'}
+2024-11-08 21:44:47,199 - INFO - Processing portrait-mountain-side_prompt.txt
+2024-11-08 21:44:47,201 - INFO - Creating video generation task for portrait-mountain-side
+2024-11-08 21:44:47,308 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:44:47,309 - ERROR - Error processing prompts/portrait-mountain-side_prompt.txt: Error code: 400 - {'error': 'promptText must be less than 512 characters.'}
+2024-11-08 21:44:47,309 - INFO - Processing castle_prompt.txt
+2024-11-08 21:44:47,311 - INFO - Creating video generation task for castle
+2024-11-08 21:44:47,404 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:44:47,405 - ERROR - Error processing prompts/castle_prompt.txt: Error code: 400 - {'error': 'promptText must be less than 512 characters.'}
+2024-11-08 21:44:47,405 - INFO - Processing hazy-sunset_prompt.txt
+2024-11-08 21:44:47,406 - INFO - Creating video generation task for hazy-sunset
+2024-11-08 21:44:47,538 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:44:47,539 - ERROR - Error processing prompts/hazy-sunset_prompt.txt: Error code: 400 - {'error': 'promptText must be less than 512 characters.'}
+2024-11-08 21:44:47,539 - INFO - Processing beach-boats_prompt.txt
+2024-11-08 21:44:47,540 - INFO - Creating video generation task for beach-boats
+2024-11-08 21:44:47,672 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:44:47,674 - ERROR - Error processing prompts/beach-boats_prompt.txt: Error code: 400 - {'error': 'promptText must be less than 512 characters.'}
+2024-11-08 21:44:47,674 - INFO - Processing flower-pots_prompt.txt
+2024-11-08 21:44:47,676 - INFO - Creating video generation task for flower-pots
+2024-11-08 21:44:47,819 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:44:47,820 - ERROR - Error processing prompts/flower-pots_prompt.txt: Error code: 400 - {'error': 'promptText must be less than 512 characters.'}
+2024-11-08 21:44:47,820 - INFO - Processing rugged_prompt.txt
+2024-11-08 21:44:47,822 - INFO - Creating video generation task for rugged
+2024-11-08 21:44:47,971 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:44:47,972 - ERROR - Error processing prompts/rugged_prompt.txt: Error code: 400 - {'error': 'promptText must be less than 512 characters.'}
+2024-11-08 21:44:47,973 - INFO - Processing climbing_prompt.txt
+2024-11-08 21:44:47,974 - INFO - Creating video generation task for climbing
+2024-11-08 21:44:48,087 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:44:48,088 - ERROR - Error processing prompts/climbing_prompt.txt: Error code: 400 - {'error': 'promptText must be less than 512 characters.'}
+2024-11-08 21:44:48,089 - INFO - Processing boats_prompt.txt
+2024-11-08 21:44:48,090 - INFO - Creating video generation task for boats
+2024-11-08 21:44:48,237 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:44:48,239 - ERROR - Error processing prompts/boats_prompt.txt: Error code: 400 - {'error': 'promptText must be less than 512 characters.'}
+2024-11-08 21:44:48,239 - INFO - Processing ally-bikes_prompt.txt
+2024-11-08 21:44:48,240 - INFO - Creating video generation task for ally-bikes
+2024-11-08 21:44:52,807 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 21:44:52,809 - INFO - Waiting for task 9b115eaa-3d43-46ed-a445-579ceeead632 to complete
+2024-11-08 21:44:52,810 - ERROR - Error processing prompts/ally-bikes_prompt.txt: 'ImageToVideoCreateResponse' object has no attribute 'status'
+2024-11-08 21:44:52,810 - INFO - Processing mirror_prompt.txt
+2024-11-08 21:44:52,812 - INFO - Creating video generation task for mirror
+2024-11-08 21:44:52,927 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:44:52,927 - ERROR - Error processing prompts/mirror_prompt.txt: Error code: 400 - {'error': 'promptText must be less than 512 characters.'}
+2024-11-08 21:44:52,928 - INFO - Processing dubrovnik_prompt.txt
+2024-11-08 21:44:52,929 - INFO - Creating video generation task for dubrovnik
+2024-11-08 21:44:53,027 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:44:53,028 - ERROR - Error processing prompts/dubrovnik_prompt.txt: Error code: 400 - {'error': 'promptText must be less than 512 characters.'}
+2024-11-08 21:44:53,028 - INFO - Processing grass_prompt.txt
+2024-11-08 21:44:53,030 - INFO - Creating video generation task for grass
+2024-11-08 21:44:55,999 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 21:44:56,001 - INFO - Waiting for task 7387bf9f-e109-40c8-b923-f74586fb9623 to complete
+2024-11-08 21:44:56,002 - ERROR - Error processing prompts/grass_prompt.txt: 'ImageToVideoCreateResponse' object has no attribute 'status'
+2024-11-08 21:44:56,002 - INFO - Processing cliff-jump_prompt.txt
+2024-11-08 21:44:56,004 - INFO - Creating video generation task for cliff-jump
+2024-11-08 21:44:56,106 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:44:56,107 - ERROR - Error processing prompts/cliff-jump_prompt.txt: Error code: 400 - {'error': 'promptText must be less than 512 characters.'}
+2024-11-08 21:44:56,107 - INFO - Processing rock-window_prompt.txt
+2024-11-08 21:44:56,108 - INFO - Creating video generation task for rock-window
+2024-11-08 21:44:56,263 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:44:56,264 - ERROR - Error processing prompts/rock-window_prompt.txt: Error code: 400 - {'error': 'promptText must be less than 512 characters.'}
+2024-11-08 21:44:56,264 - INFO - Processing pink-flower-close-up_prompt.txt
+2024-11-08 21:44:56,266 - INFO - Creating video generation task for pink-flower-close-up
+2024-11-08 21:44:56,400 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 400 Bad Request"
+2024-11-08 21:44:56,403 - ERROR - Error processing prompts/pink-flower-close-up_prompt.txt: Error code: 400 - {'error': 'promptText must be less than 512 characters.'}
+2024-11-08 21:44:56,403 - INFO - Processing mountain-hut_prompt.txt
+2024-11-08 21:44:56,405 - INFO - Creating video generation task for mountain-hut
+2024-11-08 21:50:17,601 - INFO - Processing rocks_prompt.txt
+2024-11-08 21:50:17,602 - INFO - Creating video generation task for rocks
+2024-11-08 21:50:21,029 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 21:50:21,031 - INFO - Waiting for task 2e0eb1b4-9555-4e52-b85a-9063fd153601 to complete
+2024-11-08 21:50:21,032 - ERROR - Error processing prompts/rocks_prompt.txt: 'ImageToVideoCreateResponse' object has no attribute 'status'
+2024-11-08 21:50:21,032 - INFO - Processing trail_prompt.txt
+2024-11-08 21:50:21,034 - INFO - Creating video generation task for trail
+2024-11-08 21:50:25,318 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 21:50:25,319 - INFO - Waiting for task 464f8fdc-d519-4ae3-824d-d18bca646463 to complete
+2024-11-08 21:50:25,320 - ERROR - Error processing prompts/trail_prompt.txt: 'ImageToVideoCreateResponse' object has no attribute 'status'
+2024-11-08 21:50:25,320 - INFO - Processing portrait-mountain-side_prompt.txt
+2024-11-08 21:50:25,322 - INFO - Creating video generation task for portrait-mountain-side
+2024-11-08 21:52:37,411 - INFO - Processing rocks_prompt.txt
+2024-11-08 21:52:37,411 - INFO - Creating video generation task for rocks
+2024-11-08 21:52:41,113 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 21:52:51,117 - ERROR - Error processing prompts/rocks_prompt.txt: name 'client' is not defined
+2024-11-08 21:52:51,117 - INFO - Processing trail_prompt.txt
+2024-11-08 21:52:51,119 - INFO - Creating video generation task for trail
+2024-11-08 21:52:54,880 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 21:53:04,886 - ERROR - Error processing prompts/trail_prompt.txt: name 'client' is not defined
+2024-11-08 21:53:04,887 - INFO - Processing portrait-mountain-side_prompt.txt
+2024-11-08 21:53:04,888 - INFO - Creating video generation task for portrait-mountain-side
+2024-11-08 21:53:08,557 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 21:53:18,562 - ERROR - Error processing prompts/portrait-mountain-side_prompt.txt: name 'client' is not defined
+2024-11-08 21:53:18,562 - INFO - Processing castle_prompt.txt
+2024-11-08 21:53:18,564 - INFO - Creating video generation task for castle
+2024-11-08 21:53:23,095 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 21:53:33,101 - ERROR - Error processing prompts/castle_prompt.txt: name 'client' is not defined
+2024-11-08 21:53:33,102 - INFO - Processing hazy-sunset_prompt.txt
+2024-11-08 21:53:33,103 - INFO - Creating video generation task for hazy-sunset
+2024-11-08 21:53:36,617 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 21:53:43,493 - INFO - Processing rocks_prompt.txt
+2024-11-08 21:53:43,493 - INFO - Creating video generation task for rocks
+2024-11-08 21:53:46,925 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 21:53:57,139 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/a5c0b043-88e9-469f-8596-7dbbd3b384e6 "HTTP/1.1 200 OK"
+2024-11-08 21:53:57,142 - INFO - Waiting for task a5c0b043-88e9-469f-8596-7dbbd3b384e6 to complete
+2024-11-08 21:54:07,296 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/a5c0b043-88e9-469f-8596-7dbbd3b384e6 "HTTP/1.1 200 OK"
+2024-11-08 21:54:07,299 - INFO - Task status: THROTTLED
+2024-11-08 21:54:17,465 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/a5c0b043-88e9-469f-8596-7dbbd3b384e6 "HTTP/1.1 200 OK"
+2024-11-08 21:54:17,468 - INFO - Task status: THROTTLED
+2024-11-08 21:54:27,637 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/a5c0b043-88e9-469f-8596-7dbbd3b384e6 "HTTP/1.1 200 OK"
+2024-11-08 21:54:27,640 - INFO - Task status: THROTTLED
+2024-11-08 21:54:37,806 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/a5c0b043-88e9-469f-8596-7dbbd3b384e6 "HTTP/1.1 200 OK"
+2024-11-08 21:54:37,810 - INFO - Task status: RUNNING
+2024-11-08 21:54:47,981 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/a5c0b043-88e9-469f-8596-7dbbd3b384e6 "HTTP/1.1 200 OK"
+2024-11-08 21:54:47,986 - INFO - Task status: SUCCEEDED
+2024-11-08 21:54:47,987 - ERROR - Error processing prompts/rocks_prompt.txt: 'TaskRetrieveResponse' object has no attribute 'download'
+2024-11-08 21:54:47,988 - INFO - Processing trail_prompt.txt
+2024-11-08 21:54:47,989 - INFO - Creating video generation task for trail
+2024-11-08 21:54:53,313 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 21:55:03,514 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/2f4c0b5f-31bd-47d0-8003-4b24a58ace5f "HTTP/1.1 200 OK"
+2024-11-08 21:55:03,516 - INFO - Waiting for task 2f4c0b5f-31bd-47d0-8003-4b24a58ace5f to complete
+2024-11-08 22:12:21,640 - INFO - Processing rocks_prompt.txt
+2024-11-08 22:12:21,640 - INFO - Creating video generation task for rocks
+2024-11-08 22:12:27,021 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 22:12:37,206 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/0cda7b2a-fe0e-47a5-8c1a-dcd8a011708c "HTTP/1.1 200 OK"
+2024-11-08 22:12:37,216 - INFO - Waiting for task 0cda7b2a-fe0e-47a5-8c1a-dcd8a011708c to complete
+2024-11-08 22:12:47,383 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/0cda7b2a-fe0e-47a5-8c1a-dcd8a011708c "HTTP/1.1 200 OK"
+2024-11-08 22:12:47,389 - INFO - Task status: SUCCEEDED
+2024-11-08 22:12:47,390 - ERROR - Error processing prompts/rocks_prompt.txt: 'str' object has no attribute 'output'
+2024-11-08 22:12:47,390 - INFO - Processing trail_prompt.txt
+2024-11-08 22:12:47,392 - INFO - Creating video generation task for trail
+2024-11-08 22:12:51,391 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 22:14:04,541 - INFO - Processing rocks_prompt.txt
+2024-11-08 22:14:04,541 - INFO - Creating video generation task for rocks
+2024-11-08 22:14:07,992 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 22:14:18,164 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/a1debc17-babe-4dfe-97d4-c630bdc5d258 "HTTP/1.1 200 OK"
+2024-11-08 22:14:18,169 - INFO - Waiting for task a1debc17-babe-4dfe-97d4-c630bdc5d258 to complete
+2024-11-08 22:14:28,342 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/a1debc17-babe-4dfe-97d4-c630bdc5d258 "HTTP/1.1 200 OK"
+2024-11-08 22:14:28,346 - INFO - Task status: SUCCEEDED
+2024-11-08 22:14:28,346 - INFO - Video URL: <built-in method pop of list object at 0x10686fdc0>
+2024-11-08 22:14:28,346 - INFO - Video generation complete for rocks
+2024-11-08 22:14:28,346 - INFO - Processing trail_prompt.txt
+2024-11-08 22:14:28,348 - INFO - Creating video generation task for trail
+2024-11-08 22:14:31,847 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 22:14:42,028 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/ce56e4af-562c-4850-877c-4d4596cbf6d3 "HTTP/1.1 200 OK"
+2024-11-08 22:14:42,031 - INFO - Waiting for task ce56e4af-562c-4850-877c-4d4596cbf6d3 to complete
+2024-11-08 22:14:52,212 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/ce56e4af-562c-4850-877c-4d4596cbf6d3 "HTTP/1.1 200 OK"
+2024-11-08 22:14:52,214 - INFO - Task status: RUNNING
+2024-11-08 22:20:07,158 - INFO - Processing rocks_prompt.txt
+2024-11-08 22:20:07,159 - INFO - Creating video generation task for rocks
+2024-11-08 22:20:14,281 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 22:20:24,440 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/3125b88d-2e90-4a31-85a5-7f80a6a21284 "HTTP/1.1 200 OK"
+2024-11-08 22:20:24,444 - INFO - Waiting for task 3125b88d-2e90-4a31-85a5-7f80a6a21284 to complete
+2024-11-08 22:20:34,597 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/3125b88d-2e90-4a31-85a5-7f80a6a21284 "HTTP/1.1 200 OK"
+2024-11-08 22:20:34,611 - INFO - Task status: SUCCEEDED
+2024-11-08 22:20:34,611 - INFO - Video URL: https://dnznrvs05pmza.cloudfront.net/4f1de4e2-3ba8-41c8-954c-a05a309322e4.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNDIyMzI1Yzk4NjFiODdkMCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTczMTI4MzIwMH0.jdqFF71VNDhibGA5UMl_soPPJHRTTiOnIXzDFHSDQ5g
+2024-11-08 22:20:35,233 - INFO - Successfully downloaded video to videos/rocks.mp4
+2024-11-08 22:20:35,234 - INFO - Video generation complete for rocks
+2024-11-08 22:20:35,234 - INFO - Processing trail_prompt.txt
+2024-11-08 22:20:35,235 - INFO - Creating video generation task for trail
+2024-11-08 22:20:40,135 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 22:20:50,293 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/4ae27c31-d955-47a9-8f6e-506dd733155a "HTTP/1.1 200 OK"
+2024-11-08 22:20:50,296 - INFO - Waiting for task 4ae27c31-d955-47a9-8f6e-506dd733155a to complete
+2024-11-08 22:21:00,519 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/4ae27c31-d955-47a9-8f6e-506dd733155a "HTTP/1.1 200 OK"
+2024-11-08 22:21:00,520 - INFO - Task status: SUCCEEDED
+2024-11-08 22:21:00,520 - INFO - Video URL: https://dnznrvs05pmza.cloudfront.net/205ab979-eff7-4305-9222-5485fc80bdcb.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNDFhMDhhYTQ2MGY0OWE5YSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTczMTI4MzIwMH0.Z989J94ZXZKBWEuMjg6rNIiWioyBspcENbx09GIZupY
+2024-11-08 22:21:00,999 - INFO - Successfully downloaded video to videos/trail.mp4
+2024-11-08 22:21:01,000 - INFO - Video generation complete for trail
+2024-11-08 22:21:01,000 - INFO - Processing portrait-mountain-side_prompt.txt
+2024-11-08 22:21:01,000 - INFO - Creating video generation task for portrait-mountain-side
+2024-11-08 22:21:05,101 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 22:21:15,260 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/05ba6703-27ff-4ef4-8ee7-d410b043dba9 "HTTP/1.1 200 OK"
+2024-11-08 22:21:15,262 - INFO - Waiting for task 05ba6703-27ff-4ef4-8ee7-d410b043dba9 to complete
+2024-11-08 22:21:25,470 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/05ba6703-27ff-4ef4-8ee7-d410b043dba9 "HTTP/1.1 200 OK"
+2024-11-08 22:21:25,472 - INFO - Task status: SUCCEEDED
+2024-11-08 22:21:25,473 - INFO - Video URL: https://dnznrvs05pmza.cloudfront.net/b2255aed-00ac-4295-9a22-796125776c02.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOGI3NTFkNGViZTRjMzcwNyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTczMTI4MzIwMH0.996oCwobMp55L4BE0SKxhxYbba3wnUnRSROFJaYRmNY
+2024-11-08 22:21:25,890 - INFO - Successfully downloaded video to videos/portrait-mountain-side.mp4
+2024-11-08 22:21:25,891 - INFO - Video generation complete for portrait-mountain-side
+2024-11-08 22:21:25,891 - INFO - Processing castle_prompt.txt
+2024-11-08 22:21:25,891 - INFO - Creating video generation task for castle
+2024-11-08 22:21:31,124 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 22:21:41,314 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/61098b99-42d8-45a2-ab6b-ad3b9330006e "HTTP/1.1 200 OK"
+2024-11-08 22:21:41,316 - INFO - Waiting for task 61098b99-42d8-45a2-ab6b-ad3b9330006e to complete
+2024-11-08 22:21:51,489 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/61098b99-42d8-45a2-ab6b-ad3b9330006e "HTTP/1.1 200 OK"
+2024-11-08 22:21:51,491 - INFO - Task status: SUCCEEDED
+2024-11-08 22:21:51,492 - INFO - Video URL: https://dnznrvs05pmza.cloudfront.net/fdb379c0-f9e9-4584-a18c-5ed5482935db.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYTc0OWYxYjc3Y2MxMTQxNiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTczMTI4MzIwMH0.V0_ZRuWhtNTMN24yR5cWwyqLgnB6PtGr89Jqq5TVJME
+2024-11-08 22:21:51,890 - INFO - Successfully downloaded video to videos/castle.mp4
+2024-11-08 22:21:51,890 - INFO - Video generation complete for castle
+2024-11-08 22:21:51,890 - INFO - Processing hazy-sunset_prompt.txt
+2024-11-08 22:21:51,891 - INFO - Creating video generation task for hazy-sunset
+2024-11-08 22:21:57,387 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 22:22:07,551 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/4c99d757-b301-4e1a-b389-03956bb1951f "HTTP/1.1 200 OK"
+2024-11-08 22:22:07,553 - INFO - Waiting for task 4c99d757-b301-4e1a-b389-03956bb1951f to complete
+2024-11-08 22:22:17,714 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/4c99d757-b301-4e1a-b389-03956bb1951f "HTTP/1.1 200 OK"
+2024-11-08 22:22:17,715 - INFO - Task status: SUCCEEDED
+2024-11-08 22:22:17,716 - INFO - Video URL: https://dnznrvs05pmza.cloudfront.net/df63e06c-2069-46bd-b5f2-ea552367708f.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZjY0NThiMGQxYmEzMmIxNCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTczMTI4MzIwMH0.jUwKS_LtQLc6ATDnuSU00jmDA98kn0igHxTQ0TEE-G4
+2024-11-08 22:22:18,064 - INFO - Successfully downloaded video to videos/hazy-sunset.mp4
+2024-11-08 22:22:18,064 - INFO - Video generation complete for hazy-sunset
+2024-11-08 22:22:18,064 - INFO - Processing beach-boats_prompt.txt
+2024-11-08 22:22:18,065 - INFO - Creating video generation task for beach-boats
+2024-11-08 22:22:23,093 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 22:22:33,248 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/55f613ee-d42d-4fd2-a822-ef7bd6bc3891 "HTTP/1.1 200 OK"
+2024-11-08 22:22:33,250 - INFO - Waiting for task 55f613ee-d42d-4fd2-a822-ef7bd6bc3891 to complete
+2024-11-08 22:22:43,453 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/55f613ee-d42d-4fd2-a822-ef7bd6bc3891 "HTTP/1.1 200 OK"
+2024-11-08 22:22:43,455 - INFO - Task status: SUCCEEDED
+2024-11-08 22:22:43,455 - INFO - Video URL: https://dnznrvs05pmza.cloudfront.net/00a0c6a6-8039-4ead-801b-7bd66bbf1923.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiM2I3NTYwY2Q2NmJjNzVjNiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTczMTI4MzIwMH0.8PrGvtrYJAwt_hdj4DPHJJO0u5nZZxH05UNxHVVAELQ
+2024-11-08 22:22:43,929 - INFO - Successfully downloaded video to videos/beach-boats.mp4
+2024-11-08 22:22:43,929 - INFO - Video generation complete for beach-boats
+2024-11-08 22:22:43,929 - INFO - Processing flower-pots_prompt.txt
+2024-11-08 22:22:43,930 - INFO - Creating video generation task for flower-pots
+2024-11-08 22:22:48,616 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 22:22:58,762 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/c4501680-1ba8-4162-99d2-bf5c7a486e03 "HTTP/1.1 200 OK"
+2024-11-08 22:22:58,764 - INFO - Waiting for task c4501680-1ba8-4162-99d2-bf5c7a486e03 to complete
+2024-11-08 22:23:08,946 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/c4501680-1ba8-4162-99d2-bf5c7a486e03 "HTTP/1.1 200 OK"
+2024-11-08 22:23:08,949 - INFO - Task status: SUCCEEDED
+2024-11-08 22:23:08,949 - INFO - Video URL: https://dnznrvs05pmza.cloudfront.net/a25f2740-9743-4151-a32f-87efb2113f2a.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZWQ5MzI4YmMyNThjZjFjNiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTczMTI4MzIwMH0.BJY4_jd37SNO4yPin2MRwsC51RyeBv-kU4KveupXry0
+2024-11-08 22:23:09,384 - INFO - Successfully downloaded video to videos/flower-pots.mp4
+2024-11-08 22:23:09,385 - INFO - Video generation complete for flower-pots
+2024-11-08 22:23:09,385 - INFO - Processing rugged_prompt.txt
+2024-11-08 22:23:09,385 - INFO - Creating video generation task for rugged
+2024-11-08 22:23:12,586 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 22:23:22,753 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/82222b64-b1d0-487c-b824-309ed5d43116 "HTTP/1.1 200 OK"
+2024-11-08 22:23:22,756 - INFO - Waiting for task 82222b64-b1d0-487c-b824-309ed5d43116 to complete
+2024-11-08 22:23:32,960 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/82222b64-b1d0-487c-b824-309ed5d43116 "HTTP/1.1 200 OK"
+2024-11-08 22:23:32,962 - INFO - Task status: SUCCEEDED
+2024-11-08 22:23:32,962 - INFO - Video URL: https://dnznrvs05pmza.cloudfront.net/f61783ab-0fa0-449e-bdc8-b089646eb2d4.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOTA1ZmZhODI3NGJiYzFhYiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTczMTI4MzIwMH0.iaGsQ6YDNXDkrz6IXaH-iqthZz6cqYEs31IWbVp5zhc
+2024-11-08 22:23:33,498 - INFO - Successfully downloaded video to videos/rugged.mp4
+2024-11-08 22:23:33,498 - INFO - Video generation complete for rugged
+2024-11-08 22:23:33,498 - INFO - Processing climbing_prompt.txt
+2024-11-08 22:23:33,499 - INFO - Creating video generation task for climbing
+2024-11-08 22:23:37,402 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 22:23:47,574 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/2a0b9002-0707-4edd-bd0e-7ae629b61ca2 "HTTP/1.1 200 OK"
+2024-11-08 22:23:47,577 - INFO - Waiting for task 2a0b9002-0707-4edd-bd0e-7ae629b61ca2 to complete
+2024-11-08 22:23:57,759 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/2a0b9002-0707-4edd-bd0e-7ae629b61ca2 "HTTP/1.1 200 OK"
+2024-11-08 22:23:57,762 - INFO - Task status: SUCCEEDED
+2024-11-08 22:23:57,762 - INFO - Video URL: https://dnznrvs05pmza.cloudfront.net/002f5ea5-584f-43d4-b8b3-bad6e8014372.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYmRhNzFlY2EwZWY4Zjk4OSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTczMTI4MzIwMH0.tGDFUBkMeyMUjMTG670xvE1cOOcUuxCn_8ldWbU2vf4
+2024-11-08 22:23:58,214 - INFO - Successfully downloaded video to videos/climbing.mp4
+2024-11-08 22:23:58,214 - INFO - Video generation complete for climbing
+2024-11-08 22:23:58,215 - INFO - Processing boats_prompt.txt
+2024-11-08 22:23:58,215 - INFO - Creating video generation task for boats
+2024-11-08 22:24:02,604 - INFO - HTTP Request: POST https://api.dev.runwayml.com/v1/image_to_video "HTTP/1.1 200 OK"
+2024-11-08 22:24:12,757 - INFO - HTTP Request: GET https://api.dev.runwayml.com/v1/tasks/c8ae6a09-5fbb-4983-820c-639c6c1d0707 "HTTP/1.1 200 OK"
+2024-11-08 22:24:12,759 - INFO - Waiting for task c8ae6a09-5fbb-4983-820c-639c6c1d0707 to complete

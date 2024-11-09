@@ -1,0 +1,514 @@
+2024-11-08 21:20:51,199 - INFO - Processing trail.jpg
+2024-11-08 21:20:51,849 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:51,855 - ERROR - Error generating prompt for input-photos/trail.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:51,855 - INFO - Processing light-sunset.jpg
+2024-11-08 21:20:51,957 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:51,958 - ERROR - Error generating prompt for input-photos/light-sunset.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:51,958 - INFO - Processing mountain-hut.jpg
+2024-11-08 21:20:52,071 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:52,072 - ERROR - Error generating prompt for input-photos/mountain-hut.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:52,072 - INFO - Processing cliff-jump.jpg
+2024-11-08 21:20:52,169 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:52,170 - ERROR - Error generating prompt for input-photos/cliff-jump.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:52,170 - INFO - Processing climbing.jpg
+2024-11-08 21:20:52,296 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:52,298 - ERROR - Error generating prompt for input-photos/climbing.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:52,298 - INFO - Processing castle.jpg
+2024-11-08 21:20:52,394 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:52,395 - ERROR - Error generating prompt for input-photos/castle.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:52,395 - INFO - Processing flower-pots.jpg
+2024-11-08 21:20:52,513 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:52,514 - ERROR - Error generating prompt for input-photos/flower-pots.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:52,515 - INFO - Processing mountains-clouds-snow.jpg
+2024-11-08 21:20:52,658 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:52,660 - ERROR - Error generating prompt for input-photos/mountains-clouds-snow.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:52,660 - INFO - Processing sharp-mountains.jpg
+2024-11-08 21:20:52,792 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:52,793 - ERROR - Error generating prompt for input-photos/sharp-mountains.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:52,794 - INFO - Processing thirsty-dog.jpg
+2024-11-08 21:20:52,907 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:52,909 - ERROR - Error generating prompt for input-photos/thirsty-dog.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:52,909 - INFO - Processing hazy-sunset.jpg
+2024-11-08 21:20:53,016 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:53,018 - ERROR - Error generating prompt for input-photos/hazy-sunset.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:53,018 - INFO - Processing rocks.jpg
+2024-11-08 21:20:53,131 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:53,133 - ERROR - Error generating prompt for input-photos/rocks.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:53,133 - INFO - Processing beach-boats.jpg
+2024-11-08 21:20:53,277 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:53,280 - ERROR - Error generating prompt for input-photos/beach-boats.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:53,280 - INFO - Processing portrait-mountain-side.jpg
+2024-11-08 21:20:53,404 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:53,406 - ERROR - Error generating prompt for input-photos/portrait-mountain-side.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:53,406 - INFO - Processing mirror.jpg
+2024-11-08 21:20:53,499 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:53,500 - ERROR - Error generating prompt for input-photos/mirror.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:53,500 - INFO - Processing grass.jpg
+2024-11-08 21:20:53,606 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:53,606 - ERROR - Error generating prompt for input-photos/grass.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:53,606 - INFO - Processing ally-bikes.jpg
+2024-11-08 21:20:53,760 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:53,762 - ERROR - Error generating prompt for input-photos/ally-bikes.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:53,763 - INFO - Processing rugged.jpg
+2024-11-08 21:20:53,888 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:53,890 - ERROR - Error generating prompt for input-photos/rugged.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:53,890 - INFO - Processing wildflowers.jpg
+2024-11-08 21:20:54,022 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:54,023 - ERROR - Error generating prompt for input-photos/wildflowers.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:54,024 - INFO - Processing laptop.jpg
+2024-11-08 21:20:54,140 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:54,142 - ERROR - Error generating prompt for input-photos/laptop.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:54,142 - INFO - Processing pink-flower-close-up.jpg
+2024-11-08 21:20:54,253 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:54,254 - ERROR - Error generating prompt for input-photos/pink-flower-close-up.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:54,254 - INFO - Processing mountain-beers.jpg
+2024-11-08 21:20:54,365 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:54,366 - ERROR - Error generating prompt for input-photos/mountain-beers.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:54,366 - INFO - Processing waterfalls.jpg
+2024-11-08 21:20:54,515 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:54,516 - ERROR - Error generating prompt for input-photos/waterfalls.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:54,517 - INFO - Processing sunset-beach.jpg
+2024-11-08 21:20:54,648 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:54,650 - ERROR - Error generating prompt for input-photos/sunset-beach.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:54,650 - INFO - Processing beach-balls.jpg
+2024-11-08 21:20:54,771 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:54,773 - ERROR - Error generating prompt for input-photos/beach-balls.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:54,773 - INFO - Processing mountain-clouds.jpg
+2024-11-08 21:20:54,896 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:54,897 - ERROR - Error generating prompt for input-photos/mountain-clouds.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:54,897 - INFO - Processing beach-yoga.jpg
+2024-11-08 21:20:54,991 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:54,993 - ERROR - Error generating prompt for input-photos/beach-yoga.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:54,993 - INFO - Processing boats.jpg
+2024-11-08 21:20:55,117 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:55,119 - ERROR - Error generating prompt for input-photos/boats.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:55,119 - INFO - Processing rock-window.jpg
+2024-11-08 21:20:55,251 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:55,253 - ERROR - Error generating prompt for input-photos/rock-window.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:55,253 - INFO - Processing dubrovnik.jpg
+2024-11-08 21:20:55,351 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:55,353 - ERROR - Error generating prompt for input-photos/dubrovnik.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:20:55,353 - INFO - Processing surf-shack.jpg
+2024-11-08 21:20:55,471 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-11-08 21:20:55,473 - ERROR - Error generating prompt for input-photos/surf-shack.jpg: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2024-11-08 21:21:30,810 - INFO - Processing trail.jpg
+2024-11-08 21:21:31,201 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:31,206 - ERROR - Error generating prompt for input-photos/trail.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:31,207 - INFO - Processing light-sunset.jpg
+2024-11-08 21:21:31,422 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:31,424 - ERROR - Error generating prompt for input-photos/light-sunset.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:31,425 - INFO - Processing mountain-hut.jpg
+2024-11-08 21:21:32,451 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:32,452 - ERROR - Error generating prompt for input-photos/mountain-hut.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:32,452 - INFO - Processing cliff-jump.jpg
+2024-11-08 21:21:32,644 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:32,645 - ERROR - Error generating prompt for input-photos/cliff-jump.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:32,645 - INFO - Processing climbing.jpg
+2024-11-08 21:21:32,892 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:32,894 - ERROR - Error generating prompt for input-photos/climbing.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:32,895 - INFO - Processing castle.jpg
+2024-11-08 21:21:33,087 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:33,089 - ERROR - Error generating prompt for input-photos/castle.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:33,089 - INFO - Processing flower-pots.jpg
+2024-11-08 21:21:33,377 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:33,379 - ERROR - Error generating prompt for input-photos/flower-pots.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:33,380 - INFO - Processing mountains-clouds-snow.jpg
+2024-11-08 21:21:33,668 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:33,669 - ERROR - Error generating prompt for input-photos/mountains-clouds-snow.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:33,670 - INFO - Processing sharp-mountains.jpg
+2024-11-08 21:21:34,007 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:34,008 - ERROR - Error generating prompt for input-photos/sharp-mountains.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:34,009 - INFO - Processing thirsty-dog.jpg
+2024-11-08 21:21:34,185 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:34,187 - ERROR - Error generating prompt for input-photos/thirsty-dog.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:34,187 - INFO - Processing hazy-sunset.jpg
+2024-11-08 21:21:34,607 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:34,608 - ERROR - Error generating prompt for input-photos/hazy-sunset.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:34,609 - INFO - Processing rocks.jpg
+2024-11-08 21:21:34,835 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:34,837 - ERROR - Error generating prompt for input-photos/rocks.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:34,837 - INFO - Processing beach-boats.jpg
+2024-11-08 21:21:35,083 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:35,085 - ERROR - Error generating prompt for input-photos/beach-boats.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:35,085 - INFO - Processing portrait-mountain-side.jpg
+2024-11-08 21:21:35,479 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:35,479 - ERROR - Error generating prompt for input-photos/portrait-mountain-side.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:35,480 - INFO - Processing mirror.jpg
+2024-11-08 21:21:35,634 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:35,635 - ERROR - Error generating prompt for input-photos/mirror.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:35,635 - INFO - Processing grass.jpg
+2024-11-08 21:21:35,849 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:35,851 - ERROR - Error generating prompt for input-photos/grass.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:35,851 - INFO - Processing ally-bikes.jpg
+2024-11-08 21:21:36,192 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:36,194 - ERROR - Error generating prompt for input-photos/ally-bikes.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:36,195 - INFO - Processing rugged.jpg
+2024-11-08 21:21:36,695 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:36,697 - ERROR - Error generating prompt for input-photos/rugged.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:36,697 - INFO - Processing wildflowers.jpg
+2024-11-08 21:21:36,926 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:36,928 - ERROR - Error generating prompt for input-photos/wildflowers.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:36,928 - INFO - Processing laptop.jpg
+2024-11-08 21:21:37,131 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:37,133 - ERROR - Error generating prompt for input-photos/laptop.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:37,133 - INFO - Processing pink-flower-close-up.jpg
+2024-11-08 21:21:37,400 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:37,402 - ERROR - Error generating prompt for input-photos/pink-flower-close-up.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:37,403 - INFO - Processing mountain-beers.jpg
+2024-11-08 21:21:37,595 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:37,596 - ERROR - Error generating prompt for input-photos/mountain-beers.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:37,596 - INFO - Processing waterfalls.jpg
+2024-11-08 21:21:38,900 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:38,901 - ERROR - Error generating prompt for input-photos/waterfalls.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:38,902 - INFO - Processing sunset-beach.jpg
+2024-11-08 21:21:40,106 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:40,106 - ERROR - Error generating prompt for input-photos/sunset-beach.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:40,107 - INFO - Processing beach-balls.jpg
+2024-11-08 21:21:40,497 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:40,500 - ERROR - Error generating prompt for input-photos/beach-balls.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:40,500 - INFO - Processing mountain-clouds.jpg
+2024-11-08 21:21:40,747 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:40,749 - ERROR - Error generating prompt for input-photos/mountain-clouds.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:40,749 - INFO - Processing beach-yoga.jpg
+2024-11-08 21:21:40,980 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:40,982 - ERROR - Error generating prompt for input-photos/beach-yoga.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:40,982 - INFO - Processing boats.jpg
+2024-11-08 21:21:41,227 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:41,230 - ERROR - Error generating prompt for input-photos/boats.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:41,230 - INFO - Processing rock-window.jpg
+2024-11-08 21:21:41,453 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:41,454 - ERROR - Error generating prompt for input-photos/rock-window.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:41,454 - INFO - Processing dubrovnik.jpg
+2024-11-08 21:21:41,631 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:41,632 - ERROR - Error generating prompt for input-photos/dubrovnik.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:21:41,632 - INFO - Processing surf-shack.jpg
+2024-11-08 21:21:41,866 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:21:41,866 - ERROR - Error generating prompt for input-photos/surf-shack.jpg: Error code: 400 - {'error': {'message': "Invalid value: 'image'. Supported values are: 'text', 'image_url', 'input_audio', 'refusal', and 'audio'.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].type', 'code': 'invalid_value'}}
+2024-11-08 21:22:55,995 - INFO - Processing trail.jpg
+2024-11-08 21:22:56,421 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:56,424 - ERROR - Error generating prompt for input-photos/trail.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:56,424 - INFO - Processing light-sunset.jpg
+2024-11-08 21:22:56,604 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:56,606 - ERROR - Error generating prompt for input-photos/light-sunset.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:56,607 - INFO - Processing mountain-hut.jpg
+2024-11-08 21:22:56,977 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:56,979 - ERROR - Error generating prompt for input-photos/mountain-hut.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:56,979 - INFO - Processing cliff-jump.jpg
+2024-11-08 21:22:57,149 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:57,151 - ERROR - Error generating prompt for input-photos/cliff-jump.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:57,151 - INFO - Processing climbing.jpg
+2024-11-08 21:22:57,347 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:57,349 - ERROR - Error generating prompt for input-photos/climbing.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:57,349 - INFO - Processing castle.jpg
+2024-11-08 21:22:57,501 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:57,502 - ERROR - Error generating prompt for input-photos/castle.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:57,503 - INFO - Processing flower-pots.jpg
+2024-11-08 21:22:57,704 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:57,705 - ERROR - Error generating prompt for input-photos/flower-pots.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:57,706 - INFO - Processing mountains-clouds-snow.jpg
+2024-11-08 21:22:57,910 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:57,911 - ERROR - Error generating prompt for input-photos/mountains-clouds-snow.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:57,912 - INFO - Processing sharp-mountains.jpg
+2024-11-08 21:22:58,092 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:58,094 - ERROR - Error generating prompt for input-photos/sharp-mountains.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:58,094 - INFO - Processing thirsty-dog.jpg
+2024-11-08 21:22:58,239 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:58,241 - ERROR - Error generating prompt for input-photos/thirsty-dog.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:58,241 - INFO - Processing hazy-sunset.jpg
+2024-11-08 21:22:58,416 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:58,418 - ERROR - Error generating prompt for input-photos/hazy-sunset.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:58,419 - INFO - Processing rocks.jpg
+2024-11-08 21:22:58,615 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:58,617 - ERROR - Error generating prompt for input-photos/rocks.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:58,617 - INFO - Processing beach-boats.jpg
+2024-11-08 21:22:58,799 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:58,801 - ERROR - Error generating prompt for input-photos/beach-boats.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:58,801 - INFO - Processing portrait-mountain-side.jpg
+2024-11-08 21:22:58,967 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:58,968 - ERROR - Error generating prompt for input-photos/portrait-mountain-side.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:58,969 - INFO - Processing mirror.jpg
+2024-11-08 21:22:59,110 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:59,112 - ERROR - Error generating prompt for input-photos/mirror.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:59,112 - INFO - Processing grass.jpg
+2024-11-08 21:22:59,295 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:59,297 - ERROR - Error generating prompt for input-photos/grass.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:59,297 - INFO - Processing ally-bikes.jpg
+2024-11-08 21:22:59,522 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:59,524 - ERROR - Error generating prompt for input-photos/ally-bikes.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:59,525 - INFO - Processing rugged.jpg
+2024-11-08 21:22:59,714 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:59,716 - ERROR - Error generating prompt for input-photos/rugged.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:59,717 - INFO - Processing wildflowers.jpg
+2024-11-08 21:22:59,896 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:22:59,898 - ERROR - Error generating prompt for input-photos/wildflowers.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:22:59,898 - INFO - Processing laptop.jpg
+2024-11-08 21:23:00,062 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:23:00,064 - ERROR - Error generating prompt for input-photos/laptop.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:23:00,064 - INFO - Processing pink-flower-close-up.jpg
+2024-11-08 21:23:00,289 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:23:00,291 - ERROR - Error generating prompt for input-photos/pink-flower-close-up.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:23:00,292 - INFO - Processing mountain-beers.jpg
+2024-11-08 21:23:00,643 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:23:00,645 - ERROR - Error generating prompt for input-photos/mountain-beers.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:23:00,645 - INFO - Processing waterfalls.jpg
+2024-11-08 21:23:00,872 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:23:00,874 - ERROR - Error generating prompt for input-photos/waterfalls.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:23:00,875 - INFO - Processing sunset-beach.jpg
+2024-11-08 21:23:01,043 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:23:01,045 - ERROR - Error generating prompt for input-photos/sunset-beach.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:23:01,046 - INFO - Processing beach-balls.jpg
+2024-11-08 21:23:01,417 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:23:01,419 - ERROR - Error generating prompt for input-photos/beach-balls.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:23:01,420 - INFO - Processing mountain-clouds.jpg
+2024-11-08 21:23:01,624 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:23:01,625 - ERROR - Error generating prompt for input-photos/mountain-clouds.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:23:01,626 - INFO - Processing beach-yoga.jpg
+2024-11-08 21:23:01,979 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:23:01,980 - ERROR - Error generating prompt for input-photos/beach-yoga.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:23:01,981 - INFO - Processing boats.jpg
+2024-11-08 21:23:02,186 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:23:02,188 - ERROR - Error generating prompt for input-photos/boats.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:23:02,189 - INFO - Processing rock-window.jpg
+2024-11-08 21:23:02,398 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:23:02,400 - ERROR - Error generating prompt for input-photos/rock-window.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:23:02,400 - INFO - Processing dubrovnik.jpg
+2024-11-08 21:23:02,568 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:23:02,569 - ERROR - Error generating prompt for input-photos/dubrovnik.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:23:02,569 - INFO - Processing surf-shack.jpg
+2024-11-08 21:23:02,726 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-08 21:23:02,728 - ERROR - Error generating prompt for input-photos/surf-shack.jpg: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[0].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[0].image_url', 'code': 'invalid_type'}}
+2024-11-08 21:23:55,000 - INFO - Processing trail.jpg
+2024-11-08 21:24:00,750 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:24:00,762 - INFO - Saved prompt for trail
+2024-11-08 21:24:00,762 - INFO - Processing light-sunset.jpg
+2024-11-08 21:24:05,532 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:24:05,537 - INFO - Saved prompt for light-sunset
+2024-11-08 21:24:05,538 - INFO - Processing mountain-hut.jpg
+2024-11-08 21:24:11,107 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:24:11,111 - INFO - Saved prompt for mountain-hut
+2024-11-08 21:24:11,111 - INFO - Processing cliff-jump.jpg
+2024-11-08 21:24:17,801 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:24:17,808 - INFO - Saved prompt for cliff-jump
+2024-11-08 21:24:17,809 - INFO - Processing climbing.jpg
+2024-11-08 21:24:22,929 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:24:22,934 - INFO - Saved prompt for climbing
+2024-11-08 21:24:22,934 - INFO - Processing castle.jpg
+2024-11-08 21:24:27,791 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:24:27,796 - INFO - Saved prompt for castle
+2024-11-08 21:24:27,796 - INFO - Processing flower-pots.jpg
+2024-11-08 21:24:32,966 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:24:32,971 - INFO - Saved prompt for flower-pots
+2024-11-08 21:24:32,971 - INFO - Processing mountains-clouds-snow.jpg
+2024-11-08 21:24:38,061 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:24:38,066 - INFO - Saved prompt for mountains-clouds-snow
+2024-11-08 21:24:38,066 - INFO - Processing sharp-mountains.jpg
+2024-11-08 21:24:45,094 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:24:45,100 - INFO - Saved prompt for sharp-mountains
+2024-11-08 21:24:45,101 - INFO - Processing thirsty-dog.jpg
+2024-11-08 21:24:49,831 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:24:49,834 - INFO - Saved prompt for thirsty-dog
+2024-11-08 21:24:49,834 - INFO - Processing hazy-sunset.jpg
+2024-11-08 21:24:55,599 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:24:55,602 - INFO - Saved prompt for hazy-sunset
+2024-11-08 21:24:55,603 - INFO - Processing rocks.jpg
+2024-11-08 21:24:59,748 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:24:59,753 - INFO - Saved prompt for rocks
+2024-11-08 21:24:59,753 - INFO - Processing beach-boats.jpg
+2024-11-08 21:25:04,769 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:25:04,773 - INFO - Saved prompt for beach-boats
+2024-11-08 21:25:04,773 - INFO - Processing portrait-mountain-side.jpg
+2024-11-08 21:25:10,499 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:25:10,503 - INFO - Saved prompt for portrait-mountain-side
+2024-11-08 21:25:10,504 - INFO - Processing mirror.jpg
+2024-11-08 21:25:15,516 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:25:15,520 - INFO - Saved prompt for mirror
+2024-11-08 21:25:15,521 - INFO - Processing grass.jpg
+2024-11-08 21:25:20,391 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:25:20,395 - INFO - Saved prompt for grass
+2024-11-08 21:25:20,395 - INFO - Processing ally-bikes.jpg
+2024-11-08 21:25:40,187 - INFO - Processing trail.jpg
+2024-11-08 21:25:43,835 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:25:43,845 - INFO - Saved prompt for trail
+2024-11-08 21:25:43,845 - INFO - Processing light-sunset.jpg
+2024-11-08 21:25:47,022 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:25:47,027 - INFO - Saved prompt for light-sunset
+2024-11-08 21:25:47,027 - INFO - Processing mountain-hut.jpg
+2024-11-08 21:25:52,169 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:25:52,174 - INFO - Saved prompt for mountain-hut
+2024-11-08 21:25:52,174 - INFO - Processing cliff-jump.jpg
+2024-11-08 21:25:55,600 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:25:55,605 - INFO - Saved prompt for cliff-jump
+2024-11-08 21:25:55,605 - INFO - Processing climbing.jpg
+2024-11-08 21:26:00,018 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:26:00,022 - INFO - Saved prompt for climbing
+2024-11-08 21:26:00,023 - INFO - Processing castle.jpg
+2024-11-08 21:26:07,006 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:26:07,011 - INFO - Saved prompt for castle
+2024-11-08 21:26:07,011 - INFO - Processing flower-pots.jpg
+2024-11-08 21:26:12,456 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:26:12,463 - INFO - Saved prompt for flower-pots
+2024-11-08 21:26:12,464 - INFO - Processing mountains-clouds-snow.jpg
+2024-11-08 21:26:17,720 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:26:17,725 - INFO - Saved prompt for mountains-clouds-snow
+2024-11-08 21:26:17,726 - INFO - Processing sharp-mountains.jpg
+2024-11-08 21:26:22,166 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:26:22,170 - INFO - Saved prompt for sharp-mountains
+2024-11-08 21:26:22,170 - INFO - Processing thirsty-dog.jpg
+2024-11-08 21:26:25,939 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:26:25,943 - INFO - Saved prompt for thirsty-dog
+2024-11-08 21:26:25,943 - INFO - Processing hazy-sunset.jpg
+2024-11-08 21:26:29,600 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:26:29,605 - INFO - Saved prompt for hazy-sunset
+2024-11-08 21:26:29,605 - INFO - Processing rocks.jpg
+2024-11-08 21:26:35,083 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:26:35,088 - INFO - Saved prompt for rocks
+2024-11-08 21:26:35,088 - INFO - Processing beach-boats.jpg
+2024-11-08 21:26:41,498 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:26:41,501 - INFO - Saved prompt for beach-boats
+2024-11-08 21:26:41,501 - INFO - Processing portrait-mountain-side.jpg
+2024-11-08 21:26:45,729 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:26:45,731 - INFO - Saved prompt for portrait-mountain-side
+2024-11-08 21:26:45,732 - INFO - Processing mirror.jpg
+2024-11-08 21:26:49,184 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:26:49,186 - INFO - Saved prompt for mirror
+2024-11-08 21:26:49,186 - INFO - Processing grass.jpg
+2024-11-08 21:26:53,454 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:26:53,459 - INFO - Saved prompt for grass
+2024-11-08 21:26:53,459 - INFO - Processing ally-bikes.jpg
+2024-11-08 21:26:57,086 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:26:57,089 - INFO - Saved prompt for ally-bikes
+2024-11-08 21:26:57,090 - INFO - Processing rugged.jpg
+2024-11-08 21:27:00,779 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:27:00,782 - INFO - Saved prompt for rugged
+2024-11-08 21:27:00,783 - INFO - Processing wildflowers.jpg
+2024-11-08 21:27:04,381 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:27:04,385 - INFO - Saved prompt for wildflowers
+2024-11-08 21:27:04,385 - INFO - Processing laptop.jpg
+2024-11-08 21:27:10,236 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:27:10,242 - INFO - Saved prompt for laptop
+2024-11-08 21:27:10,242 - INFO - Processing pink-flower-close-up.jpg
+2024-11-08 21:27:14,335 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:27:14,340 - INFO - Saved prompt for pink-flower-close-up
+2024-11-08 21:27:14,340 - INFO - Processing mountain-beers.jpg
+2024-11-08 21:27:18,048 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:27:18,052 - INFO - Saved prompt for mountain-beers
+2024-11-08 21:27:18,053 - INFO - Processing waterfalls.jpg
+2024-11-08 21:27:21,989 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:27:21,993 - INFO - Saved prompt for waterfalls
+2024-11-08 21:27:21,993 - INFO - Processing sunset-beach.jpg
+2024-11-08 21:27:26,950 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:27:26,954 - INFO - Saved prompt for sunset-beach
+2024-11-08 21:27:26,955 - INFO - Processing beach-balls.jpg
+2024-11-08 21:27:31,174 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:27:31,177 - INFO - Saved prompt for beach-balls
+2024-11-08 21:27:31,177 - INFO - Processing mountain-clouds.jpg
+2024-11-08 21:27:34,598 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:27:34,602 - INFO - Saved prompt for mountain-clouds
+2024-11-08 21:27:34,603 - INFO - Processing beach-yoga.jpg
+2024-11-08 21:27:38,640 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:27:38,645 - INFO - Saved prompt for beach-yoga
+2024-11-08 21:27:38,645 - INFO - Processing boats.jpg
+2024-11-08 21:27:42,945 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:27:42,951 - INFO - Saved prompt for boats
+2024-11-08 21:27:42,951 - INFO - Processing rock-window.jpg
+2024-11-08 21:27:47,562 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:27:47,564 - INFO - Saved prompt for rock-window
+2024-11-08 21:27:47,564 - INFO - Processing dubrovnik.jpg
+2024-11-08 21:27:50,963 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:27:50,968 - INFO - Saved prompt for dubrovnik
+2024-11-08 21:27:50,968 - INFO - Processing surf-shack.jpg
+2024-11-08 21:27:54,217 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:27:54,220 - INFO - Saved prompt for surf-shack
+2024-11-08 21:45:35,860 - INFO - Processing trail.jpg
+2024-11-08 21:45:39,776 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:45:39,786 - INFO - Saved prompt for trail
+2024-11-08 21:45:39,786 - INFO - Processing light-sunset.jpg
+2024-11-08 21:45:44,506 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:45:44,510 - INFO - Saved prompt for light-sunset
+2024-11-08 21:45:44,510 - INFO - Processing mountain-hut.jpg
+2024-11-08 21:45:48,673 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:45:48,678 - INFO - Saved prompt for mountain-hut
+2024-11-08 21:45:48,678 - INFO - Processing cliff-jump.jpg
+2024-11-08 21:45:52,194 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:45:52,197 - INFO - Saved prompt for cliff-jump
+2024-11-08 21:45:52,198 - INFO - Processing climbing.jpg
+2024-11-08 21:45:55,686 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:45:55,690 - INFO - Saved prompt for climbing
+2024-11-08 21:45:55,690 - INFO - Processing castle.jpg
+2024-11-08 21:45:59,971 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:45:59,976 - INFO - Saved prompt for castle
+2024-11-08 21:45:59,976 - INFO - Processing flower-pots.jpg
+2024-11-08 21:46:04,473 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:46:04,474 - INFO - Saved prompt for flower-pots
+2024-11-08 21:46:04,478 - INFO - Processing mountains-clouds-snow.jpg
+2024-11-08 21:46:07,954 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:46:07,958 - INFO - Saved prompt for mountains-clouds-snow
+2024-11-08 21:46:07,958 - INFO - Processing sharp-mountains.jpg
+2024-11-08 21:46:14,033 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:46:14,037 - INFO - Saved prompt for sharp-mountains
+2024-11-08 21:46:14,037 - INFO - Processing thirsty-dog.jpg
+2024-11-08 21:46:18,880 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:46:18,883 - INFO - Saved prompt for thirsty-dog
+2024-11-08 21:46:18,884 - INFO - Processing hazy-sunset.jpg
+2024-11-08 21:46:22,809 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:46:22,814 - INFO - Saved prompt for hazy-sunset
+2024-11-08 21:46:22,814 - INFO - Processing rocks.jpg
+2024-11-08 21:46:26,218 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:46:26,222 - INFO - Saved prompt for rocks
+2024-11-08 21:46:26,223 - INFO - Processing beach-boats.jpg
+2024-11-08 21:46:30,025 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:46:30,031 - INFO - Saved prompt for beach-boats
+2024-11-08 21:46:30,032 - INFO - Processing portrait-mountain-side.jpg
+2024-11-08 21:46:33,282 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:46:33,284 - INFO - Saved prompt for portrait-mountain-side
+2024-11-08 21:46:33,284 - INFO - Processing mirror.jpg
+2024-11-08 21:46:39,814 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:46:39,817 - INFO - Saved prompt for mirror
+2024-11-08 21:46:39,817 - INFO - Processing grass.jpg
+2024-11-08 21:46:44,589 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:46:44,592 - INFO - Saved prompt for grass
+2024-11-08 21:46:44,592 - INFO - Processing ally-bikes.jpg
+2024-11-08 21:46:48,792 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:46:48,796 - INFO - Saved prompt for ally-bikes
+2024-11-08 21:46:48,796 - INFO - Processing rugged.jpg
+2024-11-08 21:46:52,302 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:46:52,305 - INFO - Saved prompt for rugged
+2024-11-08 21:46:52,305 - INFO - Processing wildflowers.jpg
+2024-11-08 21:46:55,969 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:46:55,973 - INFO - Saved prompt for wildflowers
+2024-11-08 21:46:55,973 - INFO - Processing laptop.jpg
+2024-11-08 21:47:00,317 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:47:00,320 - INFO - Saved prompt for laptop
+2024-11-08 21:47:00,320 - INFO - Processing pink-flower-close-up.jpg
+2024-11-08 21:47:04,214 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:47:04,216 - INFO - Saved prompt for pink-flower-close-up
+2024-11-08 21:47:04,217 - INFO - Processing mountain-beers.jpg
+2024-11-08 21:47:07,701 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:47:07,705 - INFO - Saved prompt for mountain-beers
+2024-11-08 21:47:07,706 - INFO - Processing waterfalls.jpg
+2024-11-08 21:47:11,474 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:47:11,477 - INFO - Saved prompt for waterfalls
+2024-11-08 21:47:11,477 - INFO - Processing sunset-beach.jpg
+2024-11-08 21:47:15,249 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:47:15,254 - INFO - Saved prompt for sunset-beach
+2024-11-08 21:47:15,254 - INFO - Processing beach-balls.jpg
+2024-11-08 21:47:18,695 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:47:18,700 - INFO - Saved prompt for beach-balls
+2024-11-08 21:47:18,700 - INFO - Processing mountain-clouds.jpg
+2024-11-08 21:47:22,197 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:47:22,202 - INFO - Saved prompt for mountain-clouds
+2024-11-08 21:47:22,203 - INFO - Processing beach-yoga.jpg
+2024-11-08 21:47:26,850 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:47:26,852 - INFO - Saved prompt for beach-yoga
+2024-11-08 21:47:26,852 - INFO - Processing boats.jpg
+2024-11-08 21:47:30,895 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:47:30,898 - INFO - Saved prompt for boats
+2024-11-08 21:47:30,898 - INFO - Processing rock-window.jpg
+2024-11-08 21:47:34,613 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:47:34,618 - INFO - Saved prompt for rock-window
+2024-11-08 21:47:34,619 - INFO - Processing dubrovnik.jpg
+2024-11-08 21:47:38,104 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:47:38,109 - INFO - Saved prompt for dubrovnik
+2024-11-08 21:47:38,109 - INFO - Processing surf-shack.jpg
+2024-11-08 21:47:42,200 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-08 21:47:42,204 - INFO - Saved prompt for surf-shack
